@@ -302,7 +302,7 @@ This project is developed for educational purposes and demonstrates Java program
 
 ---
 
-**Author**: Nikita Shrotriya
+**Author**: Sakshi
 **Course**: Programming in Java
-**Date**: September 2025  
+**Date**: March 2026 
 **Version**: 1.0
